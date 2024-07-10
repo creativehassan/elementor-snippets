@@ -9,7 +9,6 @@ Welcome to the Elementor Snippets repository! This collection contains useful co
 - [Usage](#usage)
 - [Snippets](#snippets)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -26,6 +25,7 @@ To use these snippets, follow these steps:
 
 ```bash
 git clone https://github.com/yourusername/elementor-snippets.git
+```
 
 ## Usage
 
